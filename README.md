@@ -31,3 +31,5 @@ Com o ambiente ativado, vamos instalar todas as bibliotecas Python necessárias 
 pip install opencv-python Pillow numpy mediapipe auto-editor==29.0.5
 
 Por fim inicie o programa com python dramatic3.py
+
+Or Just install DEB file
